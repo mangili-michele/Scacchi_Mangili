@@ -1,2 +1,27 @@
-# Scacchi_Mangili
-Gioco degli Scacchi
+# ♟ Gioco di Scacchi in C++
+
+Questo progetto è una semplice implementazione **a riga di comando** del gioco degli scacchi, scritta in **C++**.
+
+## 🕹 Descrizione
+Il programma visualizza una scacchiera 8×8 usando **caratteri Unicode** (pezzi e bordi) e permette a due giocatori di inserire le mosse da tastiera nel formato classico, ad esempio:
+
+## ✅ Funzionalità
+- Scacchiera Unicode con coordinate (a–h, 1–8)
+- Supporto per tutti i pezzi (pedoni, torri, cavalli, alfieri, regina, re)
+- Controllo delle collisioni
+- Cattura dei pezzi
+- Turni alternati Bianco / Nero
+- Comando `quit` per uscire dal gioco
+
+## ⚠️ Limitazioni
+- Non gestisce scacco e scacco matto
+- Non supporta arrocco, en passant o promozione del pedone
+- Nessuna intelligenza artificiale (solo due giocatori)
+
+
+
+
+
+
+
+
