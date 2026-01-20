@@ -18,6 +18,8 @@ Il programma visualizza una scacchiera 8×8 usando **caratteri Unicode** (pezzi 
 - Non supporta arrocco, en passant o promozione del pedone
 - Nessuna intelligenza artificiale (solo due giocatori)
 
+<img width="501" height="492" alt="Screenshot 2026-01-20 111608" src="https://github.com/user-attachments/assets/c7489ceb-660a-4aee-8393-90a949fd5428" />
+
 
 
 
